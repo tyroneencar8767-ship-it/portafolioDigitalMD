@@ -7,12 +7,20 @@
 
 ---
 
+
+
 ## 📌 Índice de Contenidos
 
-* [**1. Resumen Teórico**](#1-resumen-teórico)
-* [**2. Evidencias de Ejercicios**](#2-evidencias-de-ejercicios)
-* [**3. Ejercicio Aplicado - Caso Real**](#3-ejercicio-aplicado---caso-real)
-* [**4. Reflexión Personal**](#4-reflexión-personal)
+| Sección | 
+| :--- |
+| 📘 [**1. Resumen Teórico**](#1-resumen-teórico) |
+| 📂 [**2. Evidencias de Ejercicios**](#2-evidencias-de-ejercicios) | 
+| 🚀 [**3. Ejercicio Aplicado - Caso Real**](#3-ejercicio-aplicado---caso-real) | 
+| 🧠 [**4. Reflexión Personal**](#4-reflexión-personal) | 
+
+---
+  
+---
   
 ---
 
