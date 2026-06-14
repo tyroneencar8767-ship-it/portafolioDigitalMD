@@ -10,19 +10,10 @@
 ## 📌 Índice de Contenidos
 
 * [**1. Resumen Teórico**](#1-resumen-teórico)
-  * [1.1 Definición de Proposición](#11-definición-de-proposición)
-  * [1.2 Tipos de Proposiciones](#12-tipos-de-proposiciones)
-  * [1.3 Conectores Lógicos](#13-conectores-lógicos)
-  * [1.4 Tablas de Verdad](#14-tablas-de-verdad)
-  * [1.5 Principales Leyes Lógicas](#15-principales-leyes-lógicas)
-  * [1.6 Reglas de Inferencia](#16-reglas-de-inferencia)
 * [**2. Evidencias de Ejercicios**](#2-evidencias-de-ejercicios)
 * [**3. Ejercicio Aplicado - Caso Real**](#3-ejercicio-aplicado---caso-real)
 * [**4. Reflexión Personal**](#4-reflexión-personal)
-  * [4.1 ¿Qué fue lo más difícil de entender?](#41-qué-fue-lo-más-difícil-de-entender)
-  * [4.2 ¿Qué tema comprendí mejor?](#42-qué-tema-comprendí-mejor)
-  * [4.3 ¿Cómo puedo aplicar la lógica en mi carrera?](#43-cómo-puedo-aplicar-la-lógica-en-mi-carrera)
-
+  
 ---
 
 ## 1. Resumen Teórico
