@@ -27,9 +27,9 @@
 | 🏛️ Información Institucional | 👤 Datos del Estudiante y Docente |
 | :--- | :--- |
 | **Institución:** Universidad Nacional de Loja | **Estudiante:** Tyrone Efren Encarnación Erique |
-| **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables | **Docente:** Ing. Lissette Geoconda López Faicán |
+| **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables | **Docente:** Ing. Mario Enrique Cueva Hurtado |
 | **Carrera:** Ingeniería en Computación | **Ciclo / Paralelo:** Ciclo 1A |
-| **Asignatura:** Teoría de la Programación | **Período Académico:** Marzo-agosto 2026 |
+| **Asignatura:** Matemáticas Discretas | **Período Académico:** Marzo-agosto 2026 |
 | **Lugar y Fecha:** Loja-Ecuador, 2026 | |
 
 ---
@@ -40,7 +40,7 @@
 
 | 📦 Unidad | 📘 Tema | 🔗 Enlace |
 | :---: | :--- | :---: |
-| **Unidad 1** | Fundamentos de Algoritmos y Programas | [🚀 Ver Unidad 1](unidad1.md) |
+| **Unidad 1** | Lógica Matemática | [🚀 Ver Unidad 1](unidad1.md) |
 | **Unidad 2** | Estructuras algorítmicas de control | [🛠️ Ver Unidad 2](unidad2.md) |
 | **Unidad 3** | *(Próximamente)* | [⏳ Ver Unidad 3](unidad3.md) |
 
