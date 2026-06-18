@@ -1,5 +1,6 @@
 # APEs
 
+
 # APE 2 FASE 1 Y 2
 
 Fundamentos del Álgebra de Boole y Operaciones Básicas (Semana 6-7:  mayo 2026)
