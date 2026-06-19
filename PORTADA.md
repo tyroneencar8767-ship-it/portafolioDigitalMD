@@ -34,14 +34,14 @@
 
 ---
 
-# <div align="center"> 💻 Teoría de la Programación</div>
+# <div align="center"> 💻 Matemáticas Discretas</div>
 
 ## 📑 Índice de Unidades
 
 | 📦 Unidad | 📘 Tema | 🔗 Enlace |
 | :---: | :--- | :---: |
-| **Unidad 1** | Lógica Matemática | [🚀 Ver Unidad 1](unidad1.md) |
-| **Unidad 2** | Estructuras algorítmicas de control | [🛠️ Ver Unidad 2](unidad2.md) |
+| **Unidad 1** | LÓGICA MATEMÁTICA | [🚀 Ver Unidad 1](unidad1.md) |
+| **Unidad 2** | ALGEBRA DE BOOLE | [🛠️ Ver Unidad 2](unidad2.md) |
 | **Unidad 3** | *(Próximamente)* | [⏳ Ver Unidad 3](unidad3.md) |
 
 ---
