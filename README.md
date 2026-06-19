@@ -8,15 +8,7 @@
   <strong>FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES</strong>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        ⚡ <strong>TEMA DE LA UNIDAD:</strong> <em>Fundamentos de Algoritmos y programas</em>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 ---
 
