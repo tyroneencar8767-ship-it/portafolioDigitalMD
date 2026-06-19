@@ -1,27 +1,25 @@
 [← Volver al Portafolio](README.md)
 ---
 
-<h1 align="center">📁 PORTAFOLIO  - UNIDAD 2
+<h1 align="center">📁 PORTAFOLIO - UNIDAD 2</h1>
 
 ---
 
 # 📚 APEs
 
 <details>
-<summary><b>🧠 APE 2 FASE 1 Y 2: Fundamentos del Álgebra de Boole y Operaciones Básicas</b></summary>
+<summary><b>🧠 APE 2 FASE 1 Y 2</b></summary>
 
 <h2 align="center">📐 Fundamentos del Álgebra de Boole y Operaciones Básicas</h2>
 <h3 align="center">📅 (Semana 6-7: mayo 2026)</h3>
 
 * **🔹 Paso 1:** El docente explica las propiedades y leyes del álgebra de Boole: conmutativa, asociativa, distributiva, identidad, complemento, idempotencia, leyes de De Morgan, absorción, y consenso, con demostraciones y ejemplos prácticos.
 * **🔹 Paso 2:** Entrega de ejercicios individuales de operaciones booleanas. Horario de tutorías: lunes 15:30-17:30 (virtual mediante Zoom). Devolución de calificaciones: máximo 5 días hábiles.
-* **🔹 Paso 2:** Los estudiantes practican la simplificación algebraica de expresiones booleanas paso a paso, aplicando las leyes aprendidas. Se enfatiza la identificación de patrones y la selección eficiente de la ley adecuada para cada paso.
-* **🔹 Paso 3:** Talleres de simplificación booleana y diseño de funciones lógicas: los equipos resuelven ejercicios progresivos de mayor complejidad, desde expresiones simples (2-3 términos) hasta expresiones complejas (6+ términos). Realice 5 ejercicios.
-* **🔹 Paso 4:** Actividad formativa: Los estudiantes verifican sus simplificaciones comparando las tablas de verdad de la expresión original y la expresión simplificada.
+* **🔹 Paso 3:** Los estudiantes practican la simplificación algebraica de expresiones booleanas paso a paso, aplicando las leyes aprendidas. Se enfatiza la identificación de patrones y la selección eficiente de la ley adecuada para cada paso.
+* **🔹 Paso 4:** Talleres de simplificación booleana y diseño de funciones lógicas: los equipos resuelven ejercicios progresivos de mayor complejidad, desde expresiones simples (2-3 términos) hasta expresiones complejas (6+ términos). Realice 5 ejercicios.
+* **🔹 Paso 5:** Actividad formativa: Los estudiantes verifican sus simplificaciones comparando las tablas de verdad de la expresión original y la expresión simplificada.
 
 ---
-
-<h3 align="center">👤 Tyrone Encarnación</h3>
 
 #### 📝 1. Ejercicio de 2 términos y 2 variables
 <img width="885" height="259" alt="image" src="https://github.com/user-attachments/assets/014d6b7a-13f8-4fe0-9759-b19ed86b5ee7" />
@@ -63,7 +61,7 @@
 ---
 
 <details>
-<summary><b>🗺️ APE 2 FASE 3 Y 4: Mapas de Karnaugh de 2, 3 y 4 variables</b></summary>
+<summary><b>🗺️ APE 2 FASE 3 Y 4</b></summary>
 
 <h2 align="center">🗺️ Mapas de Karnaugh 2, 3 y 4 variables</h2>
 
@@ -74,13 +72,6 @@
 * **🔹 Paso 5:** Comparación entre la simplificación algebraica y el método de Karnaugh: ventajas, desventajas y limitaciones de cada método. Los estudiantes simplifican la misma expresión por ambos métodos y comparan resultados.
 * **🔹 Paso 6:** Prácticas individuales de ejercicios de minimización con mapas de Karnaugh. Los estudiantes resuelven al menos 5 ejercicios de 2, 3 y 4 variables con diferentes niveles de dificultad.
 * **🔹 Paso 7:** Entrega del portafolio de mapas de Karnaugh (2, 3 y 4 variables) a través de la plataforma EVA. Discusión sobre la responsabilidad ambiental en el diseño de circuitos eficientes (minimización de componentes electrónicos).
-
-</details>
-
----
-
-<details>
-<summary><b>🛠️ APE 2 FASE 5 Y 6 (Parte I): Diseño, Formas Canónicas y Práctica de Minimización</b></summary>
 
 #### 💻 1. Los equipos trabajan en talleres de diseño de funciones lógicas: dado un problema práctico
 
@@ -159,9 +150,8 @@
 ---
 
 <details>
-<summary><b>🔬 APE 2 - FASE 5 Y 6 (Parte II): Teoremas Avanzados, Compuertas Universales e Informe Reflexivo</b></summary>
+<summary><b>🔬 APE 2 - FASE 5 Y 6</b></summary>
 
-#### 🔬 1. FASE 5: Los estudiantes investigan y presentan de forma participativa las leyes y propiedades adicionales mediante ejemplos prácticos.
 
 <h3 align="center">📘 GUÍA DE INVESTIGACIÓN Y PRESENTACIÓN: LEYES Y PROPIEDADES ADICIONALES DEL ÁLGEBRA BOOLEANA</h3>
 
@@ -178,7 +168,7 @@
 * **Solución Paso a Paso:** (Contenido visualizado en el portafolio original)
 * **Resultado Simplificado:**
     F = (X + Y) · (X' + Z)
-* **Aplicación en la Vida Real y Conexión con Diseño Digital:** En el diseño de hardware y circuitos lógicos integrados, implementar la función original requiere físicamente tres compuertas OR independientes que luego conectan sus salidas a una compuerta AND de tres entradas. Al aplicar el Teorema del Consenso Dual, optimizamos el circuito reduciéndolo a sólo dos compuertas OR y una compuerta AND de dos entradas.
+* **Aplicación en la Vida Real y Conexión con Diseño Digital:** En el diseño de hardware y circuitos lógicos integrados, implementar la función original requiere físicamente tres compuertas OR independientes que luego conectan sus salidas a una compuerta AND de tres entradas. Al aplicar el Teorema del Consenso Dual, optimizamos el circuito reduçiéndolo a sólo dos compuertas OR y una compuerta AND de dos entradas.
 
 #### 🅱️ ÁLGEBRA BOOLEANA GENERAL: LEYES DE DE MORGAN
 * **Definición y Explicación:** Las Leyes de De Morgan son herramientas fundamentales para la transformación de compuertas lógicas y la simplificación de condiciones complejas. Explican la equivalencia matemática que existe al distribuir o retirar una negación (operador NOT) de un paréntesis que contiene operaciones OR o AND.
@@ -212,11 +202,11 @@
 #### 🔌 2. FASE 5: Práctica de implementación de funciones booleanas usando únicamente compuertas NAND o NOR (puertas universales)
 
 * **Ejercicio 1 - COMPUERTAS NAND**
-    * Circuito
+    * *[Agrega aquí la imagen del circuito cuando la tengas]*
 * **Ejercicio 2 – COMPUERTAS NAND**
-    * Circuito
+    * *[Agrega aquí la imagen del circuito cuando la tengas]*
 * **Ejercicio 3 – COMPUERTAS XOR**
-    * Circuito
+    * *[Agrega aquí la imagen del circuito cuando la tengas]*
 
 ---
 
@@ -273,5 +263,5 @@
 
 *(Esta sección se encuentra disponible para registrar las Actividades de Contacto con el Docente)*
 
-[← Volver al Portafolio](README.md)
 ---
+[← Volver al Portafolio](README.md)
