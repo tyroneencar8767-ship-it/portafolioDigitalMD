@@ -48,14 +48,15 @@
 ## 🛠️ Secciones Adicionales
 
 <details>
-<summary><b>📚 Referencias Bibliográficas (Formato IEEE)</b></summary>
+<summary><b> 📚 Referencias Bibliográficas (Formato IEEE)</b></summary>
 <br>
 
-* **[1]** B. W. Kernighan y D. M. Ritchie, *El lenguaje de programación C*, México: Prentice Hall, 2021. 🌐 [Disponible aquí](https://lc.fie.umich.mx/~moises/apuntes/Programaci%C3%B3n%20de%20Computadoras/libro_tecto.pdf)
-* **[2]** P. Deitel y H. Deitel, *C: Cómo programar*, 8.ª ed. México: Pearson Educación, 2022. 🌐 [Disponible aquí](https://elhacker.info/manuales/Lenguajes%20de%20Programacion/C++/Como%20programar%20en%20C%20-%20C++%20(Deitel%20-%20Deitel).pdf)
-* **[3]** PseInt Project, "PseInt - Herramienta educativa para pseudocódigo," 2023. 🌐 [Disponible aquí](https://pseint.sourceforge.net/).
+* **[1]** Levin, O. (2022). *Discrete Mathematics: An Open Introduction* (4th ed.). University of Northern Colorado. Universidad Tecnológica de Pereira. ISBN: 9781534970748.
+* **[2]** Kwon, H. (2024). *A Spiral Workbook for Discrete Mathematics*. Milne Open Textbooks. ISBN: 978-1-956862-01-0.
+* **[3]** Greiner-Petter, A. (2023). *Making Presentation Math Computable*. Springer. ISBN: 978-3-658-40472-7.
+* **[4]** Powell, K. (2025). *Discrete Perspectives in Mathematics* (2nd ed.).
+* **[5]** Ikeda, K. et al. (2024). *Advanced Mathematical Science for Mobility Society*. Springer. ISBN: 978-981-99-9771-8.
 
-> ⏳ *Esta sección se encuentra actualmente en desarrollo.*
 </details>
 
 <details>
