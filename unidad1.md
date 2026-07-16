@@ -162,12 +162,12 @@ Las reglas de inferencia son esquemas de razonamiento válidos que permiten deri
 <summary><b>Ver Enlaces de Evidencias</b> (Clic para desplegar)</summary>
 <br>
 
-* **2.1 Traducción de lenguaje natural a simbólico:** [Google Drive Folder](https://drive.google.com/file/d/1PKb99DDDIp25GaEV4MXsPdPj8ZO0Uspd/view?usp=sharing)
-* **2.2 Construcción de tabla de verdad:** [Google Drive Folder](https://drive.google.com/file/d/1L3ARgGHLtwKA6Pxuif3QPKqfeAXw5qgQ/view?usp=sharing)
-* **2.3 Identificación de tautología, contradicción o contingencia:** [Google Drive Folder](https://drive.google.com/file/d/1o2GAmkPWa0VMxw-u5pXsD_KugBLeA9Bb/view?usp=sharing)
-* **2.4 Aplicación de leyes proposicionales:** [Google Drive Folder](https://drive.google.com/drive/folders/1y7OB%20O0fdBEZ0NqkaBQZG0KxkZ7%20mAidH?usp=sharing)
-* **2.5 Validación de argumento lógico:** [Google Drive Folder](https://drive.google.com/file/d/1BnoDn2qOunhDzNomgpwZ3RaCktAGB40C/view?usp=sharing)
-* **2.6 Portafolio General:** [Google Drive Folder](https://drive.google.com/drive/folders/1WsFIa--QkQ5Ywd0llmL-%20k8olla7CzJkq?usp=sharing)
+* **2.1 Traducción de lenguaje natural a simbólico:** [Ir al documento](https://drive.google.com/file/d/1PKb99DDDIp25GaEV4MXsPdPj8ZO0Uspd/view?usp=sharing)
+* **2.2 Construcción de tabla de verdad:** [Ir al documento](https://drive.google.com/file/d/1L3ARgGHLtwKA6Pxuif3QPKqfeAXw5qgQ/view?usp=sharing)
+* **2.3 Identificación de tautología, contradicción o contingencia:** [Ir al documento](https://drive.google.com/file/d/1o2GAmkPWa0VMxw-u5pXsD_KugBLeA9Bb/view?usp=sharing)
+* **2.4 Aplicación de leyes proposicionales:** [Ir al documento](https://drive.google.com/file/d/1TXIfcDyDJ9qigFP8e3rkrjLWksbDYSdd/view?usp=sharing)
+* **2.5 Validación de argumento lógico:** [Ir al documento](https://drive.google.com/file/d/1BnoDn2qOunhDzNomgpwZ3RaCktAGB40C/view?usp=sharing)
+* **2.6 Portafolio General en Google Drive:** [Ir al portafolio en Google Drive](https://drive.google.com/drive/folders/1WsFIa--QkQ5Ywd0llmL-%20k8olla7CzJkq?usp=sharing)
 </details>
 
 ---
