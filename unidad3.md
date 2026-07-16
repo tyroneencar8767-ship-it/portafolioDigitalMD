@@ -20,7 +20,9 @@ Los grafos son conjuntos de vértices conectados por aristas que permiten modela
 ### 👥 Aprendizaje en Contacto con el Docente (ACD 1)
 *   **Actividad:** [Exposición y Defensa de Estructuras de Grafos]
 *   **Descripción:** Exposición de tipos de grafos (dirigidos, no dirigidos) y sus formas de representación matricial y en listas.
-*   **Evidencia:** [Enlace al documento de la actividad](https://drive.google.com/drive/u/0/folders/1ZLzGzlcLQ4E6x6bNMW5t2YYtcaqoly8X)
+*   **Evidencia:**
+* [Enlace al documento de la actividad](https://drive.google.com/file/d/1-cy0RVtMp1vQcC5W234Ne748AneblLsD/view?usp=sharing)
+* [Enlace al video de la exposición de la actividad](https://drive.google.com/file/d/1L5XxKMVchudeLk3ETKVLgnq-SgTEwPbR/view?usp=sharing)
 
 ### ✍️ Aprendizaje Autónomo (AA 1)
 *   **Actividad:** [TEORÍA DE GRAFOS]
@@ -35,7 +37,7 @@ Los árboles son grafos conexos acíclicos que permiten modelar estructuras jer�
 ### 👥 Aprendizaje en Contacto con el Docente (ACD 2)
 *   **Actividad:** [Exposición y Defensa de Estructuras de Árboles]
 *   **Descripción:** Conceptos fundamentales de árboles, niveles, altura, y algoritmos de recorrido (Preorden, Inorden, Postorden).
-*   **Evidencia:** [Enlace al documento de la actividad](https://docs.google.com/presentation/d/1I4OgELL0lii7QLrp1IR_IspuSliIogn1/edit?usp=sharing&ouid=103517220268190087621&rtpof=true&sd=true)
+*   **Evidencia:** [Enlace al documento de la actividad](https://drive.google.com/file/d/1LA2_GYmiOTfxWM6p1otlFbR7U771Q2VV/view?usp=sharing)
 
 ### ✍️ Aprendizaje Autónomo (AA 2)
 *   **Actividad:** [Ensayo y Aplicaciones de Estructuras de Árboles]
