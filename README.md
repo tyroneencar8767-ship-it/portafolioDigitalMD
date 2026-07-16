@@ -51,11 +51,34 @@
 <summary><b> 📚 Referencias Bibliográficas (Formato IEEE)</b></summary>
 <br>
 
-* **[1]** Levin, O. (2022). *Discrete Mathematics: An Open Introduction* (4th ed.). University of Northern Colorado. Universidad Tecnológica de Pereira. ISBN: 9781534970748.
-* **[2]** Kwon, H. (2024). *A Spiral Workbook for Discrete Mathematics*. Milne Open Textbooks. ISBN: 978-1-956862-01-0.
-* **[3]** Greiner-Petter, A. (2023). *Making Presentation Math Computable*. Springer. ISBN: 978-3-658-40472-7.
-* **[4]** Powell, K. (2025). *Discrete Perspectives in Mathematics* (2nd ed.).
-* **[5]** Ikeda, K. et al. (2024). *Advanced Mathematical Science for Mobility Society*. Springer. ISBN: 978-981-99-9771-8.
+[1] R. Bayer and E. M. McCreight, "Organization and maintenance of large ordered indexes," *Acta Inform.*, vol. 1, no. 3, pp. 173–189, 1972, doi: 10.1007/BF00288683.
+
+[2] L. Breiman, "Random forests," *Mach. Learn.*, vol. 45, no. 1, pp. 5–32, 2001, doi: 10.1023/A:1010933404324.
+
+[3] D. Comer, "The ubiquitous B-tree," *ACM Comput. Surv.*, vol. 11, no. 2, pp. 121–137, Jun. 1979, doi: 10.1145/356770.356776.
+
+[4] T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, *Introduction to Algorithms*, 4th ed. Cambridge, MA, USA: MIT Press, 2022. [Online]. Available: https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
+
+[5] E. Fredkin, "Trie memory," *Commun. ACM*, vol. 3, no. 9, pp. 490–499, Sep. 1960, doi: 10.1145/367390.367400.
+
+[6] G. Graefe, "Modern B-tree techniques," *Found. Trends Databases*, vol. 3, no. 4, pp. 203–402, 2011, doi: 10.1561/1900000028.
+
+[7] A. Greiner-Petter, *Making Presentation Math Computable*. Springer, 2023. ISBN: 978-3-658-40472-7.
+
+[8] K. Ikeda et al., *Advanced Mathematical Science for Mobility Society*. Springer, 2024. ISBN: 978-981-99-9771-8.
+
+[9] H. Kwon, *A Spiral Workbook for Discrete Mathematics*. Milne Open Textbooks, 2024. ISBN: 978-1-956862-01-0.
+
+[10] O. Levin, *Discrete Mathematics: An Open Introduction*, 4th ed. Universidad Tecnológica de Pereira, 2022. ISBN: 9781534970748.
+
+[11] K. Powell, *Discrete Perspectives in Mathematics*, 2nd ed., 2025.
+
+[12] J. R. Quinlan, "Induction of decision trees," *Mach. Learn.*, vol. 1, no. 1, pp. 81–106, 1986, doi: 10.1007/BF00116251.
+
+[13] Y. Shi, G. Cheng, T. K. Tran, J. Tang, and E. Kharlamov, "Keyword-Based Knowledge Graph Exploration Based on Quadratic Group Steiner Trees," in *Proc. 30th Int. Joint Conf. Artif. Intell. (IJCAI 2021)*, 2021, pp. 1555–1562, doi: 10.24963/ijcai.2021/215.
+
+[14] J. W. J. Williams, "Algorithm 232: Heapsort," *Commun. ACM*, vol. 7, no. 6, pp. 347–348, Jun. 1964, doi: 10.1145/512274.3734138.
+
 
 </details>
 
