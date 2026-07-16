@@ -61,7 +61,7 @@ El componente práctico experimental de esta unidad se consolidó a través de u
 ## 📊 Evaluación Integradora de la Unidad
 
 *   **Descripción:** Compendio de las evaluaciones teórica y práctica de la unidad 3, validando el dominio sobre árboles de decisión y optimización de grafos.
-*   **Evidencia:** [Enlace a las secciones del examén](https://drive.google.com/drive/u/0/folders/10Uq-oH2g_d-lOFZV1tX9j_DWF4jSJGUM)
+*   **Evidencia:** [Enlace a las secciones del examén](https://drive.google.com/drive/folders/1SSJ-tvLsA25CRU5kbbtS4fGMGgNao0om?usp=sharing)
 
 ---
 
