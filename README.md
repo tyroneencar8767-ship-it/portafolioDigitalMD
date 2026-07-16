@@ -34,7 +34,7 @@
 | :---: | :--- | :---: |
 | **Unidad 1** | LÓGICA MATEMÁTICA | [🚀 Ver Unidad 1](unidad1.md) |
 | **Unidad 2** | ALGEBRA DE BOOLE | [🛠️ Ver Unidad 2](unidad2.md) |
-| **Unidad 3** | *(Próximamente)* | [⏳ Ver Unidad 3](unidad3.md) |
+| **Unidad 3** | Teoría de Grafos y Árboles | [⏳ Ver Unidad 3](unidad3.md) |
 
 ---
 
