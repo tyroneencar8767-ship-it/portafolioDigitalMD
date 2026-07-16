@@ -1,13 +1,13 @@
 [← Volver al Portafolio](README.md)
+---
+<h1 align="center">📁 Unidad 3: Teoría de Grafos y Árboles
+---
 
-# Unidad 3: Teoría de Grafos y Árboles
-
-Esta unidad comprende el estudio de las estructuras de datos no lineales fundamentales en la computación: los grafos y los árboles. A través de estas estructuras, se modelan relaciones complejas, redes de comunicación, jerarquías y procesos de optimización algorítmica.
 
 ---
 
 ## 📌 Guía de Componentes del Portafolio
-
+Esta unidad comprende el estudio de las estructuras de datos no lineales fundamentales en la computación: los grafos y los árboles. A través de estas estructuras, se modelan relaciones complejas, redes de comunicación, jerarquías y procesos de optimización algorítmica.
 *   **ACD (Aprendizaje en Contacto con el Docente):** Actividades teóricas y prácticas guiadas en clase para asimilar los conceptos clave.
 *   **AA (Aprendizaje Autónomo):** Ejercicios de profundización, investigación y resolución de problemas desarrollados de manera independiente.
 *   **APE (Aprendizaje Práctico Experimental):** Proyecto práctico integrador enfocado en la aplicación de los conocimientos en escenarios reales o simulados.
@@ -68,3 +68,4 @@ El componente práctico experimental de esta unidad se consolidó a través de u
 ---
 
 [← Volver al Portafolio](README.md)
+---
