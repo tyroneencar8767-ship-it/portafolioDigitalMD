@@ -217,8 +217,37 @@ Es decir: **Debo ir a estudiar a la biblioteca.** La decisión no es emocional n
 </details>
 
 ---
+## 4. Actividades Realizadas en la Unidad
+<details id=<"41-apes">
+<summary><b>4.1 APEs</b> (Clic para desplegar)</summary>
+<br>
+  
+* **APE 1 FASE 1:** [Ir a la carpeta](https://drive.google.com/drive/folders/1qDi5lSTMLdrBU2yIardk7GFWdYqP3F6g?usp=sharing)
+* **APE 1 FASE 2:** [Ir a la carpeta](https://drive.google.com/drive/folders/1cvXtKH1DFZpV1WXtVxxxeHcyqaTyd-zy?usp=sharing)
+* **APE 1 FASE 3:** [Ir a la carpeta](https://drive.google.com/drive/folders/1CQH0HXJHiZ-4TOBhwV9Vm5Qvc2rxqk0s?usp=sharing)
+* **APE 1 FASE 4:** [Ir a la carpeta](https://drive.google.com/drive/folders/1u7A8Q49SSzK1CbWWLoDYlMYrRWOTioL1?usp=sharing)
+* **APE 1 FASE 5:** [Ir a la carpeta](https://drive.google.com/drive/folders/1PFf-HTCuUqNsCS77ex-X0BrjdYHxtMt8?usp=sharing)
+</details>
 
-## 4. Reflexión Personal
+<details id=<"evaluacion-sumativa-unidad-1-abp">
+<summary><b>4.2 EVALUACIÓN SUMATIVA UNIDAD 1 - ABP</b> (Clic para desplegar)</summary>
+<br>
+
+* [Ir a la carpeta](https://drive.google.com/drive/folders/1CYYcXs6lakUKAAHUAwGbvI2PDx3ihqYh?usp=sharing)
+  
+</details>
+
+<details id=<"43-acd">
+  
+<summary><b>4.3 ACD</b> (Clic para desplegar)</summary>
+<br>
+
+* [Ir al archivo](https://drive.google.com/file/d/1tnH8Iuc0hkmeOitRVp673g2bgsn_Uhog/view?usp=sharing)
+  
+</details>
+
+
+## 5. Reflexión Personal
 
 <details id="41-qué-fue-lo-más-difícil-de-entender">
 <summary><b>4.1 ¿Qué fue lo más difícil de entender?</b> (Clic para desplegar)</summary>
